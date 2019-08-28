@@ -1,3 +1,4 @@
 My Stash Test!
 my real modified!
 password 1
+pass test
