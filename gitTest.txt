@@ -1,2 +1,2 @@
-Hello Git!
+My Stash Test!
 my real modified!
